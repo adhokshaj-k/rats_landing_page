@@ -1,0 +1,24 @@
+.header1{
+    background-color: #1f2937;
+    border-color: #1f2937;
+}
+.nav{
+    display:flex;
+    justify-content:space-between;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.link{
+    display: flex;
+    flex-direction: row;
+    text-decoration-line: none;
+    list-style-type:none;
+    
+    gap: 20px;
+
+}
+
+.start{
+
+}
