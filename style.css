@@ -15,7 +15,7 @@ body {
     justify-content: space-around;
     align-items: center;
     /* background-color: #1f2937; */
-    gap: 600px;
+    gap: 500px;
     padding-top: 20px;
 }
 
@@ -30,7 +30,7 @@ body {
     gap: 45px;
     list-style-type: none;
     margin-right: 5%;
-    font-size: 20px;
+    font-size: 25px;
 
 
 }
